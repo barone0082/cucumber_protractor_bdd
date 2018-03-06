@@ -1,0 +1,24 @@
+{
+  "name": "cucumber_protractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "config-js": "^1.1.9",
+    "cucumber": "^0.10.2",
+    "faker": "^4.1.0",
+    "js-beautify": "^1.7.5",
+    "pretty": "^2.0.0",
+    "protractor": "^5.3.0"
+  },
+  "devDependencies": {
+    "protractor-cucumber-framework": "^0.5.0"
+  }
+}
